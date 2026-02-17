@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Header](./github-header-banner.png)
 <!--
 **carmemdosreis/carmemdosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
