@@ -13,10 +13,12 @@ Interested in internships and real-world projects.
   <a href="https://www.linkedin.com/in/carmem-dos-reis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7B4AE2&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://github.com/carmemdosreis/cv/blob/main/Carmem_dos_Reis_CV.pdf" target="_blank">
+</p>
+<h3 align="left">My CV:</h3>
+<p align="left">
+<a href="https://github.com/carmemdosreis/cv/blob/main/Carmem_dos_Reis_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/CV-Download-purple?style=for-the-badge" />
 </a>
-
 </p>
 
 ###
