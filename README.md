@@ -15,8 +15,7 @@ Interested in internships and real-world projects.
   </a>
 </p>
 <h3 align="left">My CV:</h3>
-<p align="left">
-<a href="https://github.com/carmemdosreis/cv/blob/main/Carmem_dos_Reis_CV.pdf" target="_blank">
+<a href="https://github.com/carmemdosreis/carmemdosreis/blob/main/cv_Carmem.pdf" target="_blank">
   <img src="https://img.shields.io/badge/CV-Download-purple?style=for-the-badge" />
 </a>
 </p>
