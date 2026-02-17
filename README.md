@@ -4,11 +4,6 @@
 I'm a Telecommunications & IT Engineering student at Instituto Superior Técnico, Lisbon.  
 Currently learning programming, networking and software development.  
 Interested in internships and real-world projects.
-<h1 align="center">Hey 👋 I'm Carmem</h1>
-
-<p align="center">
-  Telecommunications & IT Engineering student @ Instituto Superior Técnico (Lisbon)
-</p>
 
 ###
 
@@ -43,3 +38,4 @@ Interested in internships and real-world projects.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carmemdoreis/carmemdoreis/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carmemdoreis/carmemdoreis/output/pacman-contribution-graph.svg">
 </picture>
+
