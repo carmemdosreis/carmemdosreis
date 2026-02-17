@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: carmemdoreis
+          github_user_name: carmemdosreis
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
