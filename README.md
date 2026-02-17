@@ -1,4 +1,10 @@
 ![Header](./banner.png)
+## 👋 About me
+
+I'm a Telecommunications & IT Engineering student at Instituto Superior Técnico, Lisbon.  
+Currently learning programming, networking and software development.  
+Interested in internships and real-world projects.
+
 <!--
 **carmemdosreis/carmemdosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
